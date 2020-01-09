@@ -1,0 +1,10 @@
+
+{
+  "acceptTypes":["any"],
+  "content": ["FS-01"],
+  "optionType": "btn",
+  "options":[{"buttonName" : "My Profile", "type": "web_url", "size": "full", "url" : "https://www.facebook.com/dyyyyyyyyyyyy", "webview" : "false", "syns": ["privacy policy"]}],
+  "retries": 3
+}
+
+

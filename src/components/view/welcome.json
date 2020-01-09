@@ -1,0 +1,9 @@
+{
+  "acceptTypes" : ["any"],
+  "content" : ["FS-00"],
+  "optionType" : "text",
+  "options" : [],
+  "retries" : null
+}
+
+

@@ -1,0 +1,32 @@
+{"pokedex":[
+  {
+      "id": "#001",
+      "name": "Grookey",
+      "type": {
+        "standard": [
+          "grass"
+        ],
+        "alternate": []
+      }
+    },
+    {
+      "id": "#002",
+      "name": "Thwackey",
+      "type": {
+        "standard": [
+          "grass"
+        ],
+        "alternate": []
+      }
+    },
+    {
+      "id": "#003",
+      "name": "Rillaboom",
+      "type": {
+        "standard": [
+          "grass"
+        ],
+        "alternate": []
+      }
+    }]
+}

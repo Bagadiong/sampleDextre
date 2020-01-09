@@ -1,0 +1,4379 @@
+{
+  "grookey": {
+    "id": "#001",
+    "name": "Grookey",
+    "type": {
+      "standard": [
+        "grass"
+      ],
+      "alternate": []
+    }
+  },
+  "thwackey": {
+    "id": "#002",
+    "name": "Thwackey",
+    "type": {
+      "standard": [
+        "grass"
+      ],
+      "alternate": []
+    }
+  },
+  "rillaboom": {
+    "id": "#003",
+    "name": "Rillaboom",
+    "type": {
+      "standard": [
+        "grass"
+      ],
+      "alternate": []
+    }
+  },
+  "scorbunny": {
+    "id": "#004",
+    "name": "Scorbunny",
+    "type": {
+      "standard": [
+        "fire"
+      ],
+      "alternate": []
+    }
+  },
+  "raboot": {
+    "id": "#005",
+    "name": "Raboot",
+    "type": {
+      "standard": [
+        "fire"
+      ],
+      "alternate": []
+    }
+  },
+  "cinderace": {
+    "id": "#006",
+    "name": "Cinderace",
+    "type": {
+      "standard": [
+        "fire"
+      ],
+      "alternate": []
+    }
+  },
+  "sobble": {
+    "id": "#007",
+    "name": "Sobble",
+    "type": {
+      "standard": [
+        "water"
+      ],
+      "alternate": []
+    }
+  },
+  "drizzile": {
+    "id": "#008",
+    "name": "Drizzile",
+    "type": {
+      "standard": [
+        "water"
+      ],
+      "alternate": []
+    }
+  },
+  "inteleon": {
+    "id": "#009",
+    "name": "Inteleon",
+    "type": {
+      "standard": [
+        "water"
+      ],
+      "alternate": []
+    }
+  },
+  "blipbug": {
+    "id": "#010",
+    "name": "Blipbug",
+    "type": {
+      "standard": [
+        "bug"
+      ],
+      "alternate": []
+    }
+  },
+  "dottler": {
+    "id": "#011",
+    "name": "Dottler",
+    "type": {
+      "standard": [
+        "bug",
+        "psychic"
+      ],
+      "alternate": []
+    }
+  },
+  "orbeetle": {
+    "id": "#012",
+    "name": "Orbeetle",
+    "type": {
+      "standard": [
+        "bug",
+        "psychic"
+      ],
+      "alternate": []
+    }
+  },
+  "caterpie": {
+    "id": "#013",
+    "name": "Caterpie",
+    "type": {
+      "standard": [
+        "bug"
+      ],
+      "alternate": []
+    }
+  },
+  "metapod": {
+    "id": "#014",
+    "name": "Metapod",
+    "type": {
+      "standard": [
+        "bug"
+      ],
+      "alternate": []
+    }
+  },
+  "butterfree": {
+    "id": "#015",
+    "name": "Butterfree",
+    "type": {
+      "standard": [
+        "bug",
+        "flying"
+      ],
+      "alternate": []
+    }
+  },
+  "grubbin": {
+    "id": "#016",
+    "name": "Grubbin",
+    "type": {
+      "standard": [
+        "bug"
+      ],
+      "alternate": []
+    }
+  },
+  "charjabug": {
+    "id": "#017",
+    "name": "Charjabug",
+    "type": {
+      "standard": [
+        "bug",
+        "electric"
+      ],
+      "alternate": []
+    }
+  },
+  "vikavolt": {
+    "id": "#018",
+    "name": "Vikavolt",
+    "type": {
+      "standard": [
+        "bug",
+        "electric"
+      ],
+      "alternate": []
+    }
+  },
+  "hoothoot": {
+    "id": "#019",
+    "name": "Hoothoot",
+    "type": {
+      "standard": [
+        "normal",
+        "flying"
+      ],
+      "alternate": []
+    }
+  },
+  "noctowl": {
+    "id": "#020",
+    "name": "Noctowl",
+    "type": {
+      "standard": [
+        "normal",
+        "flying"
+      ],
+      "alternate": []
+    }
+  },
+  "rookidee": {
+    "id": "#021",
+    "name": "Rookidee",
+    "type": {
+      "standard": [
+        "flying"
+      ],
+      "alternate": []
+    }
+  },
+  "corvisquire": {
+    "id": "#022",
+    "name": "Corvisquire",
+    "type": {
+      "standard": [
+        "flying"
+      ],
+      "alternate": []
+    }
+  },
+  "corviknight": {
+    "id": "#023",
+    "name": "Corviknight",
+    "type": {
+      "standard": [
+        "flying",
+        "steel"
+      ],
+      "alternate": []
+    }
+  },
+  "skwovet": {
+    "id": "#024",
+    "name": "Skwovet",
+    "type": {
+      "standard": [
+        "normal"
+      ],
+      "alternate": []
+    }
+  },
+  "greedent": {
+    "id": "#025",
+    "name": "Greedent",
+    "type": {
+      "standard": [
+        "normal"
+      ],
+      "alternate": []
+    }
+  },
+  "pidove": {
+    "id": "#026",
+    "name": "Pidove",
+    "type": {
+      "standard": [
+        "normal",
+        "flying"
+      ],
+      "alternate": []
+    }
+  },
+  "tranquill": {
+    "id": "#027",
+    "name": "Tranquill",
+    "type": {
+      "standard": [
+        "normal",
+        "flying"
+      ],
+      "alternate": []
+    }
+  },
+  "unfezant": {
+    "id": "#028",
+    "name": "Unfezant",
+    "type": {
+      "standard": [
+        "normal",
+        "flying"
+      ],
+      "alternate": []
+    }
+  },
+  "nickit": {
+    "id": "#029",
+    "name": "Nickit",
+    "type": {
+      "standard": [
+        "dark"
+      ],
+      "alternate": []
+    }
+  },
+  "thievul": {
+    "id": "#030",
+    "name": "Thievul",
+    "type": {
+      "standard": [
+        "dark"
+      ],
+      "alternate": []
+    }
+  },
+  "zigzagoon": {
+    "id": "#031",
+    "name": "Zigzagoon",
+    "type": {
+      "standard": [
+        "normal"
+      ],
+      "alternate": [
+        {
+          "form": "galarian",
+          "type": [
+            "dark",
+            "normal"
+          ]
+        }
+      ]
+    }
+  },
+  "linoone": {
+    "id": "#032",
+    "name": "Linoone",
+    "type": {
+      "standard": [
+        "normal"
+      ],
+      "alternate": [
+        {
+          "form": "galarian",
+          "type": [
+            "dark",
+            "normal"
+          ]
+        }
+      ]
+    }
+  },
+  "obstagoon": {
+    "id": "#033",
+    "name": "Obstagoon",
+    "type": {
+      "standard": [
+        "dark",
+        "normal"
+      ],
+      "alternate": []
+    }
+  },
+  "wooloo": {
+    "id": "#034",
+    "name": "Wooloo",
+    "type": {
+      "standard": [
+        "normal"
+      ],
+      "alternate": []
+    }
+  },
+  "dubwool": {
+    "id": "#035",
+    "name": "Dubwool",
+    "type": {
+      "standard": [
+        "normal"
+      ],
+      "alternate": []
+    }
+  },
+  "lotad": {
+    "id": "#036",
+    "name": "Lotad",
+    "type": {
+      "standard": [
+        "water",
+        "grass"
+      ],
+      "alternate": []
+    }
+  },
+  "lombre": {
+    "id": "#037",
+    "name": "Lombre",
+    "type": {
+      "standard": [
+        "water",
+        "grass"
+      ],
+      "alternate": []
+    }
+  },
+  "ludicolo": {
+    "id": "#038",
+    "name": "Ludicolo",
+    "type": {
+      "standard": [
+        "water",
+        "grass"
+      ],
+      "alternate": []
+    }
+  },
+  "seedot": {
+    "id": "#039",
+    "name": "Seedot",
+    "type": {
+      "standard": [
+        "grass"
+      ],
+      "alternate": []
+    }
+  },
+  "nuzleaf": {
+    "id": "#040",
+    "name": "Nuzleaf",
+    "type": {
+      "standard": [
+        "grass",
+        "dark"
+      ],
+      "alternate": []
+    }
+  },
+  "shiftry": {
+    "id": "#041",
+    "name": "Shiftry",
+    "type": {
+      "standard": [
+        "grass",
+        "dark"
+      ],
+      "alternate": []
+    }
+  },
+  "chewtle": {
+    "id": "#042",
+    "name": "Chewtle",
+    "type": {
+      "standard": [
+        "water"
+      ],
+      "alternate": []
+    }
+  },
+  "drednaw": {
+    "id": "#043",
+    "name": "Drednaw",
+    "type": {
+      "standard": [
+        "water",
+        "rock"
+      ],
+      "alternate": []
+    }
+  },
+  "purrloin": {
+    "id": "#044",
+    "name": "Purrloin",
+    "type": {
+      "standard": [
+        "dark"
+      ],
+      "alternate": []
+    }
+  },
+  "liepard": {
+    "id": "#045",
+    "name": "Liepard",
+    "type": {
+      "standard": [
+        "dark"
+      ],
+      "alternate": []
+    }
+  },
+  "yamper": {
+    "id": "#046",
+    "name": "Yamper",
+    "type": {
+      "standard": [
+        "electric"
+      ],
+      "alternate": []
+    }
+  },
+  "boltund": {
+    "id": "#047",
+    "name": "Boltund",
+    "type": {
+      "standard": [
+        "electric"
+      ],
+      "alternate": []
+    }
+  },
+  "bunnelby": {
+    "id": "#048",
+    "name": "Bunnelby",
+    "type": {
+      "standard": [
+        "normal"
+      ],
+      "alternate": []
+    }
+  },
+  "diggersby": {
+    "id": "#049",
+    "name": "Diggersby",
+    "type": {
+      "standard": [
+        "normal",
+        "ground"
+      ],
+      "alternate": []
+    }
+  },
+  "minccino": {
+    "id": "#050",
+    "name": "Minccino",
+    "type": {
+      "standard": [
+        "normal"
+      ],
+      "alternate": []
+    }
+  },
+  "cinccino": {
+    "id": "#051",
+    "name": "Cinccino",
+    "type": {
+      "standard": [
+        "normal"
+      ],
+      "alternate": []
+    }
+  },
+  "bounsweet": {
+    "id": "#052",
+    "name": "Bounsweet",
+    "type": {
+      "standard": [
+        "grass"
+      ],
+      "alternate": []
+    }
+  },
+  "steenee": {
+    "id": "#053",
+    "name": "Steenee",
+    "type": {
+      "standard": [
+        "grass"
+      ],
+      "alternate": []
+    }
+  },
+  "tsareena": {
+    "id": "#054",
+    "name": "Tsareena",
+    "type": {
+      "standard": [
+        "grass"
+      ],
+      "alternate": []
+    }
+  },
+  "oddish": {
+    "id": "#055",
+    "name": "Oddish",
+    "type": {
+      "standard": [
+        "grass",
+        "poison"
+      ],
+      "alternate": []
+    }
+  },
+  "gloom": {
+    "id": "#056",
+    "name": "Gloom",
+    "type": {
+      "standard": [
+        "grass",
+        "poison"
+      ],
+      "alternate": []
+    }
+  },
+  "vileplume": {
+    "id": "#057",
+    "name": "Vileplume",
+    "type": {
+      "standard": [
+        "grass",
+        "poison"
+      ],
+      "alternate": []
+    }
+  },
+  "bellossom": {
+    "id": "#058",
+    "name": "Bellossom",
+    "type": {
+      "standard": [
+        "grass"
+      ],
+      "alternate": []
+    }
+  },
+  "budew": {
+    "id": "#059",
+    "name": "Budew",
+    "type": {
+      "standard": [
+        "grass",
+        "poison"
+      ],
+      "alternate": []
+    }
+  },
+  "roselia": {
+    "id": "#060",
+    "name": "Roselia",
+    "type": {
+      "standard": [
+        "grass",
+        "poison"
+      ],
+      "alternate": []
+    }
+  },
+  "roserade": {
+    "id": "#061",
+    "name": "Roserade",
+    "type": {
+      "standard": [
+        "grass",
+        "poison"
+      ],
+      "alternate": []
+    }
+  },
+  "wingull": {
+    "id": "#062",
+    "name": "Wingull",
+    "type": {
+      "standard": [
+        "water",
+        "flying"
+      ],
+      "alternate": []
+    }
+  },
+  "pelipper": {
+    "id": "#063",
+    "name": "Pelipper",
+    "type": {
+      "standard": [
+        "water",
+        "flying"
+      ],
+      "alternate": []
+    }
+  },
+  "joltik": {
+    "id": "#064",
+    "name": "Joltik",
+    "type": {
+      "standard": [
+        "bug",
+        "electric"
+      ],
+      "alternate": []
+    }
+  },
+  "galvantula": {
+    "id": "#065",
+    "name": "Galvantula",
+    "type": {
+      "standard": [
+        "bug",
+        "electric"
+      ],
+      "alternate": []
+    }
+  },
+  "electrike": {
+    "id": "#066",
+    "name": "Electrike",
+    "type": {
+      "standard": [
+        "electric"
+      ],
+      "alternate": []
+    }
+  },
+  "manectric": {
+    "id": "#067",
+    "name": "Manectric",
+    "type": {
+      "standard": [
+        "electric"
+      ],
+      "alternate": []
+    }
+  },
+  "vulpix": {
+    "id": "#068",
+    "name": "Vulpix",
+    "type": {
+      "standard": [
+        "fire",
+        "ice"
+      ],
+      "alternate": []
+    }
+  },
+  "ninetales": {
+    "id": "#069",
+    "name": "Ninetales",
+    "type": {
+      "standard": [
+        "fire",
+        "ice",
+        "fairy"
+      ],
+      "alternate": []
+    }
+  },
+  "growlithe": {
+    "id": "#070",
+    "name": "Growlithe",
+    "type": {
+      "standard": [
+        "fire"
+      ],
+      "alternate": []
+    }
+  },
+  "arcanine": {
+    "id": "#071",
+    "name": "Arcanine",
+    "type": {
+      "standard": [
+        "fire"
+      ],
+      "alternate": []
+    }
+  },
+  "vanillite": {
+    "id": "#072",
+    "name": "Vanillite",
+    "type": {
+      "standard": [
+        "ice"
+      ],
+      "alternate": []
+    }
+  },
+  "vanillish": {
+    "id": "#073",
+    "name": "Vanillish",
+    "type": {
+      "standard": [
+        "ice"
+      ],
+      "alternate": []
+    }
+  },
+  "vanilluxe": {
+    "id": "#074",
+    "name": "Vanilluxe",
+    "type": {
+      "standard": [
+        "ice"
+      ],
+      "alternate": []
+    }
+  },
+  "swinub": {
+    "id": "#075",
+    "name": "Swinub",
+    "type": {
+      "standard": [
+        "ice",
+        "ground"
+      ],
+      "alternate": []
+    }
+  },
+  "piloswine": {
+    "id": "#076",
+    "name": "Piloswine",
+    "type": {
+      "standard": [
+        "ice",
+        "ground"
+      ],
+      "alternate": []
+    }
+  },
+  "mamoswine": {
+    "id": "#077",
+    "name": "Mamoswine",
+    "type": {
+      "standard": [
+        "ice",
+        "ground"
+      ],
+      "alternate": []
+    }
+  },
+  "delibird": {
+    "id": "#078",
+    "name": "Delibird",
+    "type": {
+      "standard": [
+        "ice",
+        "flying"
+      ],
+      "alternate": []
+    }
+  },
+  "snorunt": {
+    "id": "#079",
+    "name": "Snorunt",
+    "type": {
+      "standard": [
+        "ice"
+      ],
+      "alternate": []
+    }
+  },
+  "glalie": {
+    "id": "#080",
+    "name": "Glalie",
+    "type": {
+      "standard": [
+        "ice"
+      ],
+      "alternate": []
+    }
+  },
+  "froslass": {
+    "id": "#081",
+    "name": "Froslass",
+    "type": {
+      "standard": [
+        "ice",
+        "ghost"
+      ],
+      "alternate": []
+    }
+  },
+  "baltoy": {
+    "id": "#082",
+    "name": "Baltoy",
+    "type": {
+      "standard": [
+        "ground",
+        "psychic"
+      ],
+      "alternate": []
+    }
+  },
+  "claydol": {
+    "id": "#083",
+    "name": "Claydol",
+    "type": {
+      "standard": [
+        "ground",
+        "psychic"
+      ],
+      "alternate": []
+    }
+  },
+  "mudbray": {
+    "id": "#084",
+    "name": "Mudbray",
+    "type": {
+      "standard": [
+        "ground"
+      ],
+      "alternate": []
+    }
+  },
+  "mudsdale": {
+    "id": "#085",
+    "name": "Mudsdale",
+    "type": {
+      "standard": [
+        "ground"
+      ],
+      "alternate": []
+    }
+  },
+  "dwebble": {
+    "id": "#086",
+    "name": "Dwebble",
+    "type": {
+      "standard": [
+        "bug",
+        "rock"
+      ],
+      "alternate": []
+    }
+  },
+  "crustle": {
+    "id": "#087",
+    "name": "Crustle",
+    "type": {
+      "standard": [
+        "bug",
+        "rock"
+      ],
+      "alternate": []
+    }
+  },
+  "golett": {
+    "id": "#088",
+    "name": "Golett",
+    "type": {
+      "standard": [
+        "ground",
+        "ghost"
+      ],
+      "alternate": []
+    }
+  },
+  "golurk": {
+    "id": "#089",
+    "name": "Golurk",
+    "type": {
+      "standard": [
+        "ground",
+        "ghost"
+      ],
+      "alternate": []
+    }
+  },
+  "munna": {
+    "id": "#090",
+    "name": "Munna",
+    "type": {
+      "standard": [
+        "psychic"
+      ],
+      "alternate": []
+    }
+  },
+  "musharna": {
+    "id": "#091",
+    "name": "Musharna",
+    "type": {
+      "standard": [
+        "psychic"
+      ],
+      "alternate": []
+    }
+  },
+  "natu": {
+    "id": "#092",
+    "name": "Natu",
+    "type": {
+      "standard": [
+        "psychic",
+        "flying"
+      ],
+      "alternate": []
+    }
+  },
+  "xatu": {
+    "id": "#093",
+    "name": "Xatu",
+    "type": {
+      "standard": [
+        "psychic",
+        "flying"
+      ],
+      "alternate": []
+    }
+  },
+  "stufful": {
+    "id": "#094",
+    "name": "Stufful",
+    "type": {
+      "standard": [
+        "normal",
+        "fighting"
+      ],
+      "alternate": []
+    }
+  },
+  "bewear": {
+    "id": "#095",
+    "name": "Bewear",
+    "type": {
+      "standard": [
+        "normal",
+        "fighting"
+      ],
+      "alternate": []
+    }
+  },
+  "snover": {
+    "id": "#096",
+    "name": "Snover",
+    "type": {
+      "standard": [
+        "grass",
+        "ice"
+      ],
+      "alternate": []
+    }
+  },
+  "abomasnow": {
+    "id": "#097",
+    "name": "Abomasnow",
+    "type": {
+      "standard": [
+        "grass",
+        "ice"
+      ],
+      "alternate": []
+    }
+  },
+  "krabby": {
+    "id": "#098",
+    "name": "Krabby",
+    "type": {
+      "standard": [
+        "water"
+      ],
+      "alternate": []
+    }
+  },
+  "kingler": {
+    "id": "#099",
+    "name": "Kingler",
+    "type": {
+      "standard": [
+        "water"
+      ],
+      "alternate": []
+    }
+  },
+  "wooper": {
+    "id": "#100",
+    "name": "Wooper",
+    "type": {
+      "standard": [
+        "water",
+        "ground"
+      ],
+      "alternate": []
+    }
+  },
+  "quagsire": {
+    "id": "#101",
+    "name": "Quagsire",
+    "type": {
+      "standard": [
+        "water",
+        "ground"
+      ],
+      "alternate": []
+    }
+  },
+  "corphish": {
+    "id": "#102",
+    "name": "Corphish",
+    "type": {
+      "standard": [
+        "water"
+      ],
+      "alternate": []
+    }
+  },
+  "crawdaunt": {
+    "id": "#103",
+    "name": "Crawdaunt",
+    "type": {
+      "standard": [
+        "water",
+        "dark"
+      ],
+      "alternate": []
+    }
+  },
+  "nincada": {
+    "id": "#104",
+    "name": "Nincada",
+    "type": {
+      "standard": [
+        "bug",
+        "ground"
+      ],
+      "alternate": []
+    }
+  },
+  "ninjask": {
+    "id": "#105",
+    "name": "Ninjask",
+    "type": {
+      "standard": [
+        "bug",
+        "flying"
+      ],
+      "alternate": []
+    }
+  },
+  "shedinja": {
+    "id": "#106",
+    "name": "Shedinja",
+    "type": {
+      "standard": [
+        "bug",
+        "ghost"
+      ],
+      "alternate": []
+    }
+  },
+  "tyrogue": {
+    "id": "#107",
+    "name": "Tyrogue",
+    "type": {
+      "standard": [
+        "fighting"
+      ],
+      "alternate": []
+    }
+  },
+  "hitmonlee": {
+    "id": "#108",
+    "name": "Hitmonlee",
+    "type": {
+      "standard": [
+        "fighting"
+      ],
+      "alternate": []
+    }
+  },
+  "hitmonchan": {
+    "id": "#109",
+    "name": "Hitmonchan",
+    "type": {
+      "standard": [
+        "fighting"
+      ],
+      "alternate": []
+    }
+  },
+  "hitmontop": {
+    "id": "#110",
+    "name": "Hitmontop",
+    "type": {
+      "standard": [
+        "fighting"
+      ],
+      "alternate": []
+    }
+  },
+  "pancham": {
+    "id": "#111",
+    "name": "Pancham",
+    "type": {
+      "standard": [
+        "fighting"
+      ],
+      "alternate": []
+    }
+  },
+  "pangoro": {
+    "id": "#112",
+    "name": "Pangoro",
+    "type": {
+      "standard": [
+        "fighting",
+        "dark"
+      ],
+      "alternate": []
+    }
+  },
+  "klink": {
+    "id": "#113",
+    "name": "Klink",
+    "type": {
+      "standard": [
+        "steel"
+      ],
+      "alternate": []
+    }
+  },
+  "klang": {
+    "id": "#114",
+    "name": "Klang",
+    "type": {
+      "standard": [
+        "steel"
+      ],
+      "alternate": []
+    }
+  },
+  "klinklang": {
+    "id": "#115",
+    "name": "Klinklang",
+    "type": {
+      "standard": [
+        "steel"
+      ],
+      "alternate": []
+    }
+  },
+  "combee": {
+    "id": "#116",
+    "name": "Combee",
+    "type": {
+      "standard": [
+        "bug",
+        "flying"
+      ],
+      "alternate": []
+    }
+  },
+  "vespiquen": {
+    "id": "#117",
+    "name": "Vespiquen",
+    "type": {
+      "standard": [
+        "bug",
+        "flying"
+      ],
+      "alternate": []
+    }
+  },
+  "bronzor": {
+    "id": "#118",
+    "name": "Bronzor",
+    "type": {
+      "standard": [
+        "steel",
+        "psychic"
+      ],
+      "alternate": []
+    }
+  },
+  "bronzong": {
+    "id": "#119",
+    "name": "Bronzong",
+    "type": {
+      "standard": [
+        "steel",
+        "psychic"
+      ],
+      "alternate": []
+    }
+  },
+  "ralts": {
+    "id": "#120",
+    "name": "Ralts",
+    "type": {
+      "standard": [
+        "psychic",
+        "fairy"
+      ],
+      "alternate": []
+    }
+  },
+  "kirlia": {
+    "id": "#121",
+    "name": "Kirlia",
+    "type": {
+      "standard": [
+        "psychic",
+        "fairy"
+      ],
+      "alternate": []
+    }
+  },
+  "gardevoir": {
+    "id": "#122",
+    "name": "Gardevoir",
+    "type": {
+      "standard": [
+        "psychic",
+        "fairy"
+      ],
+      "alternate": []
+    }
+  },
+  "gallade": {
+    "id": "#123",
+    "name": "Gallade",
+    "type": {
+      "standard": [
+        "psychic",
+        "fighting"
+      ],
+      "alternate": []
+    }
+  },
+  "drifloon": {
+    "id": "#124",
+    "name": "Drifloon",
+    "type": {
+      "standard": [
+        "ghost",
+        "flying"
+      ],
+      "alternate": []
+    }
+  },
+  "drifblim": {
+    "id": "#125",
+    "name": "Drifblim",
+    "type": {
+      "standard": [
+        "ghost",
+        "flying"
+      ],
+      "alternate": []
+    }
+  },
+  "gossifleur": {
+    "id": "#126",
+    "name": "Gossifleur",
+    "type": {
+      "standard": [
+        "grass"
+      ],
+      "alternate": []
+    }
+  },
+  "eldegoss": {
+    "id": "#127",
+    "name": "Eldegoss",
+    "type": {
+      "standard": [
+        "grass"
+      ],
+      "alternate": []
+    }
+  },
+  "cherubi": {
+    "id": "#128",
+    "name": "Cherubi",
+    "type": {
+      "standard": [
+        "grass"
+      ],
+      "alternate": []
+    }
+  },
+  "cherrim": {
+    "id": "#129",
+    "name": "Cherrim",
+    "type": {
+      "standard": [
+        "grass"
+      ],
+      "alternate": []
+    }
+  },
+  "stunky": {
+    "id": "#130",
+    "name": "Stunky",
+    "type": {
+      "standard": [
+        "poison",
+        "dark"
+      ],
+      "alternate": []
+    }
+  },
+  "skuntank": {
+    "id": "#131",
+    "name": "Skuntank",
+    "type": {
+      "standard": [
+        "poison",
+        "dark"
+      ],
+      "alternate": []
+    }
+  },
+  "tympole": {
+    "id": "#132",
+    "name": "Tympole",
+    "type": {
+      "standard": [
+        "water"
+      ],
+      "alternate": []
+    }
+  },
+  "palpitoad": {
+    "id": "#133",
+    "name": "Palpitoad",
+    "type": {
+      "standard": [
+        "water",
+        "ground"
+      ],
+      "alternate": []
+    }
+  },
+  "seismitoad": {
+    "id": "#134",
+    "name": "Seismitoad",
+    "type": {
+      "standard": [
+        "water",
+        "ground"
+      ],
+      "alternate": []
+    }
+  },
+  "duskull": {
+    "id": "#135",
+    "name": "Duskull",
+    "type": {
+      "standard": [
+        "ghost"
+      ],
+      "alternate": []
+    }
+  },
+  "dusclops": {
+    "id": "#136",
+    "name": "Dusclops",
+    "type": {
+      "standard": [
+        "ghost"
+      ],
+      "alternate": []
+    }
+  },
+  "dusknoir": {
+    "id": "#137",
+    "name": "Dusknoir",
+    "type": {
+      "standard": [
+        "ghost"
+      ],
+      "alternate": []
+    }
+  },
+  "machop": {
+    "id": "#138",
+    "name": "Machop",
+    "type": {
+      "standard": [
+        "fighting"
+      ],
+      "alternate": []
+    }
+  },
+  "machoke": {
+    "id": "#139",
+    "name": "Machoke",
+    "type": {
+      "standard": [
+        "fighting"
+      ],
+      "alternate": []
+    }
+  },
+  "machamp": {
+    "id": "#140",
+    "name": "Machamp",
+    "type": {
+      "standard": [
+        "fighting"
+      ],
+      "alternate": []
+    }
+  },
+  "gastly": {
+    "id": "#141",
+    "name": "Gastly",
+    "type": {
+      "standard": [
+        "ghost",
+        "poison"
+      ],
+      "alternate": []
+    }
+  },
+  "haunter": {
+    "id": "#142",
+    "name": "Haunter",
+    "type": {
+      "standard": [
+        "ghost",
+        "poison"
+      ],
+      "alternate": []
+    }
+  },
+  "gengar": {
+    "id": "#143",
+    "name": "Gengar",
+    "type": {
+      "standard": [
+        "ghost",
+        "poison"
+      ],
+      "alternate": []
+    }
+  },
+  "magikarp": {
+    "id": "#144",
+    "name": "Magikarp",
+    "type": {
+      "standard": [
+        "water"
+      ],
+      "alternate": []
+    }
+  },
+  "gyarados": {
+    "id": "#145",
+    "name": "Gyarados",
+    "type": {
+      "standard": [
+        "water",
+        "flying"
+      ],
+      "alternate": []
+    }
+  },
+  "goldeen": {
+    "id": "#146",
+    "name": "Goldeen",
+    "type": {
+      "standard": [
+        "water"
+      ],
+      "alternate": []
+    }
+  },
+  "seaking": {
+    "id": "#147",
+    "name": "Seaking",
+    "type": {
+      "standard": [
+        "water"
+      ],
+      "alternate": []
+    }
+  },
+  "remoraid": {
+    "id": "#148",
+    "name": "Remoraid",
+    "type": {
+      "standard": [
+        "water"
+      ],
+      "alternate": []
+    }
+  },
+  "octillery": {
+    "id": "#149",
+    "name": "Octillery",
+    "type": {
+      "standard": [
+        "water"
+      ],
+      "alternate": []
+    }
+  },
+  "shellder": {
+    "id": "#150",
+    "name": "Shellder",
+    "type": {
+      "standard": [
+        "water"
+      ],
+      "alternate": []
+    }
+  },
+  "cloyster": {
+    "id": "#151",
+    "name": "Cloyster",
+    "type": {
+      "standard": [
+        "water",
+        "ice"
+      ],
+      "alternate": []
+    }
+  },
+  "feebas": {
+    "id": "#152",
+    "name": "Feebas",
+    "type": {
+      "standard": [
+        "water"
+      ],
+      "alternate": []
+    }
+  },
+  "milotic": {
+    "id": "#153",
+    "name": "Milotic",
+    "type": {
+      "standard": [
+        "water"
+      ],
+      "alternate": []
+    }
+  },
+  "basculin": {
+    "id": "#154",
+    "name": "Basculin",
+    "type": {
+      "standard": [
+        "water"
+      ],
+      "alternate": []
+    }
+  },
+  "wishiwashi": {
+    "id": "#155",
+    "name": "Wishiwashi",
+    "type": {
+      "standard": [
+        "water"
+      ],
+      "alternate": []
+    }
+  },
+  "pyukumuku": {
+    "id": "#156",
+    "name": "Pyukumuku",
+    "type": {
+      "standard": [
+        "water"
+      ],
+      "alternate": []
+    }
+  },
+  "trubbish": {
+    "id": "#157",
+    "name": "Trubbish",
+    "type": {
+      "standard": [
+        "poison"
+      ],
+      "alternate": []
+    }
+  },
+  "garbodor": {
+    "id": "#158",
+    "name": "Garbodor",
+    "type": {
+      "standard": [
+        "poison"
+      ],
+      "alternate": []
+    }
+  },
+  "sizzlipede": {
+    "id": "#159",
+    "name": "Sizzlipede",
+    "type": {
+      "standard": [
+        "fire",
+        "bug"
+      ],
+      "alternate": []
+    }
+  },
+  "centiskorch": {
+    "id": "#160",
+    "name": "Centiskorch",
+    "type": {
+      "standard": [
+        "fire",
+        "bug"
+      ],
+      "alternate": []
+    }
+  },
+  "rolycoly": {
+    "id": "#161",
+    "name": "Rolycoly",
+    "type": {
+      "standard": [
+        "rock"
+      ],
+      "alternate": []
+    }
+  },
+  "carkol": {
+    "id": "#162",
+    "name": "Carkol",
+    "type": {
+      "standard": [
+        "rock",
+        "fire"
+      ],
+      "alternate": []
+    }
+  },
+  "coalossal": {
+    "id": "#163",
+    "name": "Coalossal",
+    "type": {
+      "standard": [
+        "rock",
+        "fire"
+      ],
+      "alternate": []
+    }
+  },
+  "diglett": {
+    "id": "#164",
+    "name": "Diglett",
+    "type": {
+      "standard": [
+        "ground",
+        "ground",
+        "steel"
+      ],
+      "alternate": []
+    }
+  },
+  "dugtrio": {
+    "id": "#165",
+    "name": "Dugtrio",
+    "type": {
+      "standard": [
+        "ground",
+        "ground",
+        "steel"
+      ],
+      "alternate": []
+    }
+  },
+  "drilbur": {
+    "id": "#166",
+    "name": "Drilbur",
+    "type": {
+      "standard": [
+        "ground"
+      ],
+      "alternate": []
+    }
+  },
+  "excadrill": {
+    "id": "#167",
+    "name": "Excadrill",
+    "type": {
+      "standard": [
+        "ground",
+        "steel"
+      ],
+      "alternate": []
+    }
+  },
+  "roggenrola": {
+    "id": "#168",
+    "name": "Roggenrola",
+    "type": {
+      "standard": [
+        "rock"
+      ],
+      "alternate": []
+    }
+  },
+  "boldore": {
+    "id": "#169",
+    "name": "Boldore",
+    "type": {
+      "standard": [
+        "rock"
+      ],
+      "alternate": []
+    }
+  },
+  "gigalith": {
+    "id": "#170",
+    "name": "Gigalith",
+    "type": {
+      "standard": [
+        "rock"
+      ],
+      "alternate": []
+    }
+  },
+  "timburr": {
+    "id": "#171",
+    "name": "Timburr",
+    "type": {
+      "standard": [
+        "fighting"
+      ],
+      "alternate": []
+    }
+  },
+  "gurdurr": {
+    "id": "#172",
+    "name": "Gurdurr",
+    "type": {
+      "standard": [
+        "fighting"
+      ],
+      "alternate": []
+    }
+  },
+  "conkeldurr": {
+    "id": "#173",
+    "name": "Conkeldurr",
+    "type": {
+      "standard": [
+        "fighting"
+      ],
+      "alternate": []
+    }
+  },
+  "woobat": {
+    "id": "#174",
+    "name": "Woobat",
+    "type": {
+      "standard": [
+        "psychic",
+        "flying"
+      ],
+      "alternate": []
+    }
+  },
+  "swoobat": {
+    "id": "#175",
+    "name": "Swoobat",
+    "type": {
+      "standard": [
+        "psychic",
+        "flying"
+      ],
+      "alternate": []
+    }
+  },
+  "noibat": {
+    "id": "#176",
+    "name": "Noibat",
+    "type": {
+      "standard": [
+        "flying",
+        "dragon"
+      ],
+      "alternate": []
+    }
+  },
+  "noivern": {
+    "id": "#177",
+    "name": "Noivern",
+    "type": {
+      "standard": [
+        "flying",
+        "dragon"
+      ],
+      "alternate": []
+    }
+  },
+  "onix": {
+    "id": "#178",
+    "name": "Onix",
+    "type": {
+      "standard": [
+        "rock",
+        "ground"
+      ],
+      "alternate": []
+    }
+  },
+  "steelix": {
+    "id": "#179",
+    "name": "Steelix",
+    "type": {
+      "standard": [
+        "steel",
+        "ground"
+      ],
+      "alternate": []
+    }
+  },
+  "arrokuda": {
+    "id": "#180",
+    "name": "Arrokuda",
+    "type": {
+      "standard": [
+        "water"
+      ],
+      "alternate": []
+    }
+  },
+  "barraskewda": {
+    "id": "#181",
+    "name": "Barraskewda",
+    "type": {
+      "standard": [
+        "water"
+      ],
+      "alternate": []
+    }
+  },
+  "meowth": {
+    "id": "#182",
+    "name": "Meowth",
+    "type": {
+      "standard": [
+        "normal"
+      ],
+      "alternate": [
+        {
+          "form": "galarian",
+          "type": [
+            "steel"
+          ]
+        }
+      ]
+    }
+  },
+  "perrserker": {
+    "id": "#183",
+    "name": "Perrserker",
+    "type": {
+      "standard": [
+        "steel"
+      ],
+      "alternate": []
+    }
+  },
+  "persian": {
+    "id": "#184",
+    "name": "Persian",
+    "type": {
+      "standard": [
+        "normal",
+        "dark"
+      ],
+      "alternate": []
+    }
+  },
+  "milcery": {
+    "id": "#185",
+    "name": "Milcery",
+    "type": {
+      "standard": [
+        "fairy"
+      ],
+      "alternate": []
+    }
+  },
+  "alcremie": {
+    "id": "#186",
+    "name": "Alcremie",
+    "type": {
+      "standard": [
+        "fairy"
+      ],
+      "alternate": []
+    }
+  },
+  "cutiefly": {
+    "id": "#187",
+    "name": "Cutiefly",
+    "type": {
+      "standard": [
+        "bug",
+        "fairy"
+      ],
+      "alternate": []
+    }
+  },
+  "ribombee": {
+    "id": "#188",
+    "name": "Ribombee",
+    "type": {
+      "standard": [
+        "bug",
+        "fairy"
+      ],
+      "alternate": []
+    }
+  },
+  "ferroseed": {
+    "id": "#189",
+    "name": "Ferroseed",
+    "type": {
+      "standard": [
+        "grass",
+        "steel"
+      ],
+      "alternate": []
+    }
+  },
+  "ferrothorn": {
+    "id": "#190",
+    "name": "Ferrothorn",
+    "type": {
+      "standard": [
+        "grass",
+        "steel"
+      ],
+      "alternate": []
+    }
+  },
+  "pumpkaboo": {
+    "id": "#191",
+    "name": "Pumpkaboo",
+    "type": {
+      "standard": [
+        "ghost",
+        "grass"
+      ],
+      "alternate": []
+    }
+  },
+  "gourgeist": {
+    "id": "#192",
+    "name": "Gourgeist",
+    "type": {
+      "standard": [
+        "ghost",
+        "grass"
+      ],
+      "alternate": []
+    }
+  },
+  "pichu": {
+    "id": "#193",
+    "name": "Pichu",
+    "type": {
+      "standard": [
+        "electric"
+      ],
+      "alternate": []
+    }
+  },
+  "pikachu": {
+    "id": "#194",
+    "name": "Pikachu",
+    "type": {
+      "standard": [
+        "electric"
+      ],
+      "alternate": []
+    }
+  },
+  "raichu": {
+    "id": "#195",
+    "name": "Raichu",
+    "type": {
+      "standard": [
+        "electric",
+        "electric",
+        "psychic"
+      ],
+      "alternate": []
+    }
+  },
+  "eevee": {
+    "id": "#196",
+    "name": "Eevee",
+    "type": {
+      "standard": [
+        "normal"
+      ],
+      "alternate": []
+    }
+  },
+  "vaporeon": {
+    "id": "#197",
+    "name": "Vaporeon",
+    "type": {
+      "standard": [
+        "water"
+      ],
+      "alternate": []
+    }
+  },
+  "jolteon": {
+    "id": "#198",
+    "name": "Jolteon",
+    "type": {
+      "standard": [
+        "electric"
+      ],
+      "alternate": []
+    }
+  },
+  "flareon": {
+    "id": "#199",
+    "name": "Flareon",
+    "type": {
+      "standard": [
+        "fire"
+      ],
+      "alternate": []
+    }
+  },
+  "espeon": {
+    "id": "#200",
+    "name": "Espeon",
+    "type": {
+      "standard": [
+        "psychic"
+      ],
+      "alternate": []
+    }
+  },
+  "umbreon": {
+    "id": "#201",
+    "name": "Umbreon",
+    "type": {
+      "standard": [
+        "dark"
+      ],
+      "alternate": []
+    }
+  },
+  "leafeon": {
+    "id": "#202",
+    "name": "Leafeon",
+    "type": {
+      "standard": [
+        "grass"
+      ],
+      "alternate": []
+    }
+  },
+  "glaceon": {
+    "id": "#203",
+    "name": "Glaceon",
+    "type": {
+      "standard": [
+        "ice"
+      ],
+      "alternate": []
+    }
+  },
+  "sylveon": {
+    "id": "#204",
+    "name": "Sylveon",
+    "type": {
+      "standard": [
+        "fairy"
+      ],
+      "alternate": []
+    }
+  },
+  "applin": {
+    "id": "#205",
+    "name": "Applin",
+    "type": {
+      "standard": [
+        "grass",
+        "dragon"
+      ],
+      "alternate": []
+    }
+  },
+  "flapple": {
+    "id": "#206",
+    "name": "Flapple",
+    "type": {
+      "standard": [
+        "grass",
+        "dragon"
+      ],
+      "alternate": []
+    }
+  },
+  "appletun": {
+    "id": "#207",
+    "name": "Appletun",
+    "type": {
+      "standard": [
+        "grass",
+        "dragon"
+      ],
+      "alternate": []
+    }
+  },
+  "espurr": {
+    "id": "#208",
+    "name": "Espurr",
+    "type": {
+      "standard": [
+        "psychic"
+      ],
+      "alternate": []
+    }
+  },
+  "meowstic": {
+    "id": "#209",
+    "name": "Meowstic",
+    "type": {
+      "standard": [
+        "psychic"
+      ],
+      "alternate": []
+    }
+  },
+  "swirlix": {
+    "id": "#210",
+    "name": "Swirlix",
+    "type": {
+      "standard": [
+        "fairy"
+      ],
+      "alternate": []
+    }
+  },
+  "slurpuff": {
+    "id": "#211",
+    "name": "Slurpuff",
+    "type": {
+      "standard": [
+        "fairy"
+      ],
+      "alternate": []
+    }
+  },
+  "spritzee": {
+    "id": "#212",
+    "name": "Spritzee",
+    "type": {
+      "standard": [
+        "fairy"
+      ],
+      "alternate": []
+    }
+  },
+  "aromatisse": {
+    "id": "#213",
+    "name": "Aromatisse",
+    "type": {
+      "standard": [
+        "fairy"
+      ],
+      "alternate": []
+    }
+  },
+  "dewpider": {
+    "id": "#214",
+    "name": "Dewpider",
+    "type": {
+      "standard": [
+        "water",
+        "bug"
+      ],
+      "alternate": []
+    }
+  },
+  "araquanid": {
+    "id": "#215",
+    "name": "Araquanid",
+    "type": {
+      "standard": [
+        "water",
+        "bug"
+      ],
+      "alternate": []
+    }
+  },
+  "wynaut": {
+    "id": "#216",
+    "name": "Wynaut",
+    "type": {
+      "standard": [
+        "psychic"
+      ],
+      "alternate": []
+    }
+  },
+  "wobbuffet": {
+    "id": "#217",
+    "name": "Wobbuffet",
+    "type": {
+      "standard": [
+        "psychic"
+      ],
+      "alternate": []
+    }
+  },
+  "farfetch'd": {
+    "id": "#218",
+    "name": "Farfetch'd",
+    "type": {
+      "standard": [
+        "normal",
+        "flying"
+      ],
+      "alternate": [
+        {
+          "form": "galarian",
+          "type": [
+            "fight"
+          ]
+        }
+      ]
+    }
+  },
+  "sirfetch'd": {
+    "id": "#219",
+    "name": "Sirfetch'd",
+    "type": {
+      "standard": [
+        "fighting"
+      ],
+      "alternate": []
+    }
+  },
+  "chinchou": {
+    "id": "#220",
+    "name": "Chinchou",
+    "type": {
+      "standard": [
+        "water",
+        "electric"
+      ],
+      "alternate": []
+    }
+  },
+  "lanturn": {
+    "id": "#221",
+    "name": "Lanturn",
+    "type": {
+      "standard": [
+        "water",
+        "electric"
+      ],
+      "alternate": []
+    }
+  },
+  "croagunk": {
+    "id": "#222",
+    "name": "Croagunk",
+    "type": {
+      "standard": [
+        "poison",
+        "fighting"
+      ],
+      "alternate": []
+    }
+  },
+  "toxicroak": {
+    "id": "#223",
+    "name": "Toxicroak",
+    "type": {
+      "standard": [
+        "poison",
+        "fighting"
+      ],
+      "alternate": []
+    }
+  },
+  "scraggy": {
+    "id": "#224",
+    "name": "Scraggy",
+    "type": {
+      "standard": [
+        "dark",
+        "fighting"
+      ],
+      "alternate": []
+    }
+  },
+  "scrafty": {
+    "id": "#225",
+    "name": "Scrafty",
+    "type": {
+      "standard": [
+        "dark",
+        "fighting"
+      ],
+      "alternate": []
+    }
+  },
+  "stunfisk": {
+    "id": "#226",
+    "name": "Stunfisk",
+    "type": {
+      "standard": [
+        "ground",
+        "electric"
+      ],
+      "alternate": [
+        {
+          "form": "galarian",
+          "type": [
+            "ground",
+            "steel"
+          ]
+        }
+      ]
+    }
+  },
+  "shuckle": {
+    "id": "#227",
+    "name": "Shuckle",
+    "type": {
+      "standard": [
+        "bug",
+        "rock"
+      ],
+      "alternate": []
+    }
+  },
+  "barboach": {
+    "id": "#228",
+    "name": "Barboach",
+    "type": {
+      "standard": [
+        "water",
+        "ground"
+      ],
+      "alternate": []
+    }
+  },
+  "whiscash": {
+    "id": "#229",
+    "name": "Whiscash",
+    "type": {
+      "standard": [
+        "water",
+        "ground"
+      ],
+      "alternate": []
+    }
+  },
+  "shellos": {
+    "id": "#230",
+    "name": "Shellos",
+    "type": {
+      "standard": [
+        "water"
+      ],
+      "alternate": []
+    }
+  },
+  "gastrodon": {
+    "id": "#231",
+    "name": "Gastrodon",
+    "type": {
+      "standard": [
+        "water",
+        "ground"
+      ],
+      "alternate": []
+    }
+  },
+  "wimpod": {
+    "id": "#232",
+    "name": "Wimpod",
+    "type": {
+      "standard": [
+        "bug",
+        "water"
+      ],
+      "alternate": []
+    }
+  },
+  "golisopod": {
+    "id": "#233",
+    "name": "Golisopod",
+    "type": {
+      "standard": [
+        "bug",
+        "water"
+      ],
+      "alternate": []
+    }
+  },
+  "binacle": {
+    "id": "#234",
+    "name": "Binacle",
+    "type": {
+      "standard": [
+        "rock",
+        "water"
+      ],
+      "alternate": []
+    }
+  },
+  "barbaracle": {
+    "id": "#235",
+    "name": "Barbaracle",
+    "type": {
+      "standard": [
+        "rock",
+        "water"
+      ],
+      "alternate": []
+    }
+  },
+  "corsola": {
+    "id": "#236",
+    "name": "Corsola",
+    "type": {
+      "standard": [
+        "water",
+        "rock"
+      ],
+      "alternate": [
+        {
+          "form": "galarian",
+          "type": [
+            "ghost"
+          ]
+        }
+      ]
+    }
+  },
+  "cursola": {
+    "id": "#237",
+    "name": "Cursola",
+    "type": {
+      "standard": [
+        "ghost"
+      ],
+      "alternate": []
+    }
+  },
+  "impidimp": {
+    "id": "#238",
+    "name": "Impidimp",
+    "type": {
+      "standard": [
+        "dark",
+        "fairy"
+      ],
+      "alternate": []
+    }
+  },
+  "morgrem": {
+    "id": "#239",
+    "name": "Morgrem",
+    "type": {
+      "standard": [
+        "dark",
+        "fairy"
+      ],
+      "alternate": []
+    }
+  },
+  "grimmsnarl": {
+    "id": "#240",
+    "name": "Grimmsnarl",
+    "type": {
+      "standard": [
+        "dark",
+        "fairy"
+      ],
+      "alternate": []
+    }
+  },
+  "hatenna": {
+    "id": "#241",
+    "name": "Hatenna",
+    "type": {
+      "standard": [
+        "psychic"
+      ],
+      "alternate": []
+    }
+  },
+  "hattrem": {
+    "id": "#242",
+    "name": "Hattrem",
+    "type": {
+      "standard": [
+        "psychic"
+      ],
+      "alternate": []
+    }
+  },
+  "hatterene": {
+    "id": "#243",
+    "name": "Hatterene",
+    "type": {
+      "standard": [
+        "psychic",
+        "fairy"
+      ],
+      "alternate": []
+    }
+  },
+  "salandit": {
+    "id": "#244",
+    "name": "Salandit",
+    "type": {
+      "standard": [
+        "poison",
+        "fire"
+      ],
+      "alternate": []
+    }
+  },
+  "salazzle": {
+    "id": "#245",
+    "name": "Salazzle",
+    "type": {
+      "standard": [
+        "poison",
+        "fire"
+      ],
+      "alternate": []
+    }
+  },
+  "pawniard": {
+    "id": "#246",
+    "name": "Pawniard",
+    "type": {
+      "standard": [
+        "dark",
+        "steel"
+      ],
+      "alternate": []
+    }
+  },
+  "bisharp": {
+    "id": "#247",
+    "name": "Bisharp",
+    "type": {
+      "standard": [
+        "dark",
+        "steel"
+      ],
+      "alternate": []
+    }
+  },
+  "throh": {
+    "id": "#248",
+    "name": "Throh",
+    "type": {
+      "standard": [
+        "fighting"
+      ],
+      "alternate": []
+    }
+  },
+  "sawk": {
+    "id": "#249",
+    "name": "Sawk",
+    "type": {
+      "standard": [
+        "fighting"
+      ],
+      "alternate": []
+    }
+  },
+  "koffing": {
+    "id": "#250",
+    "name": "Koffing",
+    "type": {
+      "standard": [
+        "poison"
+      ],
+      "alternate": []
+    }
+  },
+  "weezing": {
+    "id": "#251",
+    "name": "Weezing",
+    "type": {
+      "standard": [
+        "poison"
+      ],
+      "alternate": [
+        {
+          "form": "galarian",
+          "type": [
+            "poison",
+            "fairy"
+          ]
+        }
+      ]
+    }
+  },
+  "bonsly": {
+    "id": "#252",
+    "name": "Bonsly",
+    "type": {
+      "standard": [
+        "rock"
+      ],
+      "alternate": []
+    }
+  },
+  "sudowoodo": {
+    "id": "#253",
+    "name": "Sudowoodo",
+    "type": {
+      "standard": [
+        "rock"
+      ],
+      "alternate": []
+    }
+  },
+  "cleffa": {
+    "id": "#254",
+    "name": "Cleffa",
+    "type": {
+      "standard": [
+        "fairy"
+      ],
+      "alternate": []
+    }
+  },
+  "clefairy": {
+    "id": "#255",
+    "name": "Clefairy",
+    "type": {
+      "standard": [
+        "fairy"
+      ],
+      "alternate": []
+    }
+  },
+  "clefable": {
+    "id": "#256",
+    "name": "Clefable",
+    "type": {
+      "standard": [
+        "fairy"
+      ],
+      "alternate": []
+    }
+  },
+  "togepi": {
+    "id": "#257",
+    "name": "Togepi",
+    "type": {
+      "standard": [
+        "fairy"
+      ],
+      "alternate": []
+    }
+  },
+  "togetic": {
+    "id": "#258",
+    "name": "Togetic",
+    "type": {
+      "standard": [
+        "fairy",
+        "flying"
+      ],
+      "alternate": []
+    }
+  },
+  "togekiss": {
+    "id": "#259",
+    "name": "Togekiss",
+    "type": {
+      "standard": [
+        "fairy",
+        "flying"
+      ],
+      "alternate": []
+    }
+  },
+  "munchlax": {
+    "id": "#260",
+    "name": "Munchlax",
+    "type": {
+      "standard": [
+        "normal"
+      ],
+      "alternate": []
+    }
+  },
+  "snorlax": {
+    "id": "#261",
+    "name": "Snorlax",
+    "type": {
+      "standard": [
+        "normal"
+      ],
+      "alternate": []
+    }
+  },
+  "cottonee": {
+    "id": "#262",
+    "name": "Cottonee",
+    "type": {
+      "standard": [
+        "grass",
+        "fairy"
+      ],
+      "alternate": []
+    }
+  },
+  "whimsicott": {
+    "id": "#263",
+    "name": "Whimsicott",
+    "type": {
+      "standard": [
+        "grass",
+        "fairy"
+      ],
+      "alternate": []
+    }
+  },
+  "rhyhorn": {
+    "id": "#264",
+    "name": "Rhyhorn",
+    "type": {
+      "standard": [
+        "ground",
+        "rock"
+      ],
+      "alternate": []
+    }
+  },
+  "rhydon": {
+    "id": "#265",
+    "name": "Rhydon",
+    "type": {
+      "standard": [
+        "ground",
+        "rock"
+      ],
+      "alternate": []
+    }
+  },
+  "rhyperior": {
+    "id": "#266",
+    "name": "Rhyperior",
+    "type": {
+      "standard": [
+        "ground",
+        "rock"
+      ],
+      "alternate": []
+    }
+  },
+  "gothita": {
+    "id": "#267",
+    "name": "Gothita",
+    "type": {
+      "standard": [
+        "psychic"
+      ],
+      "alternate": []
+    }
+  },
+  "gothorita": {
+    "id": "#268",
+    "name": "Gothorita",
+    "type": {
+      "standard": [
+        "psychic"
+      ],
+      "alternate": []
+    }
+  },
+  "gothitelle": {
+    "id": "#269",
+    "name": "Gothitelle",
+    "type": {
+      "standard": [
+        "psychic"
+      ],
+      "alternate": []
+    }
+  },
+  "solosis": {
+    "id": "#270",
+    "name": "Solosis",
+    "type": {
+      "standard": [
+        "psychic"
+      ],
+      "alternate": []
+    }
+  },
+  "duosion": {
+    "id": "#271",
+    "name": "Duosion",
+    "type": {
+      "standard": [
+        "psychic"
+      ],
+      "alternate": []
+    }
+  },
+  "reuniclus": {
+    "id": "#272",
+    "name": "Reuniclus",
+    "type": {
+      "standard": [
+        "psychic"
+      ],
+      "alternate": []
+    }
+  },
+  "karrablast": {
+    "id": "#273",
+    "name": "Karrablast",
+    "type": {
+      "standard": [
+        "bug"
+      ],
+      "alternate": []
+    }
+  },
+  "escavalier": {
+    "id": "#274",
+    "name": "Escavalier",
+    "type": {
+      "standard": [
+        "bug",
+        "steel"
+      ],
+      "alternate": []
+    }
+  },
+  "shelmet": {
+    "id": "#275",
+    "name": "Shelmet",
+    "type": {
+      "standard": [
+        "bug"
+      ],
+      "alternate": []
+    }
+  },
+  "accelgor": {
+    "id": "#276",
+    "name": "Accelgor",
+    "type": {
+      "standard": [
+        "bug"
+      ],
+      "alternate": []
+    }
+  },
+  "elgyem": {
+    "id": "#277",
+    "name": "Elgyem",
+    "type": {
+      "standard": [
+        "psychic"
+      ],
+      "alternate": []
+    }
+  },
+  "beheeyem": {
+    "id": "#278",
+    "name": "Beheeyem",
+    "type": {
+      "standard": [
+        "psychic"
+      ],
+      "alternate": []
+    }
+  },
+  "cubchoo": {
+    "id": "#279",
+    "name": "Cubchoo",
+    "type": {
+      "standard": [
+        "ice"
+      ],
+      "alternate": []
+    }
+  },
+  "beartic": {
+    "id": "#280",
+    "name": "Beartic",
+    "type": {
+      "standard": [
+        "ice"
+      ],
+      "alternate": []
+    }
+  },
+  "rufflet": {
+    "id": "#281",
+    "name": "Rufflet",
+    "type": {
+      "standard": [
+        "normal",
+        "flying"
+      ],
+      "alternate": []
+    }
+  },
+  "braviary": {
+    "id": "#282",
+    "name": "Braviary",
+    "type": {
+      "standard": [
+        "normal",
+        "flying"
+      ],
+      "alternate": []
+    }
+  },
+  "vullaby": {
+    "id": "#283",
+    "name": "Vullaby",
+    "type": {
+      "standard": [
+        "dark",
+        "flying"
+      ],
+      "alternate": []
+    }
+  },
+  "mandibuzz": {
+    "id": "#284",
+    "name": "Mandibuzz",
+    "type": {
+      "standard": [
+        "dark",
+        "flying"
+      ],
+      "alternate": []
+    }
+  },
+  "skorupi": {
+    "id": "#285",
+    "name": "Skorupi",
+    "type": {
+      "standard": [
+        "poison",
+        "bug"
+      ],
+      "alternate": []
+    }
+  },
+  "drapion": {
+    "id": "#286",
+    "name": "Drapion",
+    "type": {
+      "standard": [
+        "poison",
+        "dark"
+      ],
+      "alternate": []
+    }
+  },
+  "litwick": {
+    "id": "#287",
+    "name": "Litwick",
+    "type": {
+      "standard": [
+        "ghost",
+        "fire"
+      ],
+      "alternate": []
+    }
+  },
+  "lampent": {
+    "id": "#288",
+    "name": "Lampent",
+    "type": {
+      "standard": [
+        "ghost",
+        "fire"
+      ],
+      "alternate": []
+    }
+  },
+  "chandelure": {
+    "id": "#289",
+    "name": "Chandelure",
+    "type": {
+      "standard": [
+        "ghost",
+        "fire"
+      ],
+      "alternate": []
+    }
+  },
+  "inkay": {
+    "id": "#290",
+    "name": "Inkay",
+    "type": {
+      "standard": [
+        "dark",
+        "psychic"
+      ],
+      "alternate": []
+    }
+  },
+  "malamar": {
+    "id": "#291",
+    "name": "Malamar",
+    "type": {
+      "standard": [
+        "dark",
+        "psychic"
+      ],
+      "alternate": []
+    }
+  },
+  "sneasel": {
+    "id": "#292",
+    "name": "Sneasel",
+    "type": {
+      "standard": [
+        "dark",
+        "ice"
+      ],
+      "alternate": []
+    }
+  },
+  "weavile": {
+    "id": "#293",
+    "name": "Weavile",
+    "type": {
+      "standard": [
+        "dark",
+        "ice"
+      ],
+      "alternate": []
+    }
+  },
+  "sableye": {
+    "id": "#294",
+    "name": "Sableye",
+    "type": {
+      "standard": [
+        "dark",
+        "ghost"
+      ],
+      "alternate": []
+    }
+  },
+  "mawile": {
+    "id": "#295",
+    "name": "Mawile",
+    "type": {
+      "standard": [
+        "steel",
+        "fairy"
+      ],
+      "alternate": []
+    }
+  },
+  "maractus": {
+    "id": "#296",
+    "name": "Maractus",
+    "type": {
+      "standard": [
+        "grass"
+      ],
+      "alternate": []
+    }
+  },
+  "sigilyph": {
+    "id": "#297",
+    "name": "Sigilyph",
+    "type": {
+      "standard": [
+        "psychic",
+        "flying"
+      ],
+      "alternate": []
+    }
+  },
+  "riolu": {
+    "id": "#298",
+    "name": "Riolu",
+    "type": {
+      "standard": [
+        "fighting"
+      ],
+      "alternate": []
+    }
+  },
+  "lucario": {
+    "id": "#299",
+    "name": "Lucario",
+    "type": {
+      "standard": [
+        "fighting",
+        "steel"
+      ],
+      "alternate": []
+    }
+  },
+  "torkoal": {
+    "id": "#300",
+    "name": "Torkoal",
+    "type": {
+      "standard": [
+        "fire"
+      ],
+      "alternate": []
+    }
+  },
+  "mimikyu": {
+    "id": "#301",
+    "name": "Mimikyu",
+    "type": {
+      "standard": [
+        "ghost",
+        "fairy"
+      ],
+      "alternate": []
+    }
+  },
+  "cufant": {
+    "id": "#302",
+    "name": "Cufant",
+    "type": {
+      "standard": [
+        "steel"
+      ],
+      "alternate": []
+    }
+  },
+  "copperajah": {
+    "id": "#303",
+    "name": "Copperajah",
+    "type": {
+      "standard": [
+        "steel"
+      ],
+      "alternate": []
+    }
+  },
+  "qwilfish": {
+    "id": "#304",
+    "name": "Qwilfish",
+    "type": {
+      "standard": [
+        "water",
+        "poison"
+      ],
+      "alternate": []
+    }
+  },
+  "frillish": {
+    "id": "#305",
+    "name": "Frillish",
+    "type": {
+      "standard": [
+        "water",
+        "ghost"
+      ],
+      "alternate": []
+    }
+  },
+  "jellicent": {
+    "id": "#306",
+    "name": "Jellicent",
+    "type": {
+      "standard": [
+        "water",
+        "ghost"
+      ],
+      "alternate": []
+    }
+  },
+  "mareanie": {
+    "id": "#307",
+    "name": "Mareanie",
+    "type": {
+      "standard": [
+        "poison",
+        "water"
+      ],
+      "alternate": []
+    }
+  },
+  "toxapex": {
+    "id": "#308",
+    "name": "Toxapex",
+    "type": {
+      "standard": [
+        "poison",
+        "water"
+      ],
+      "alternate": []
+    }
+  },
+  "cramorant": {
+    "id": "#309",
+    "name": "Cramorant",
+    "type": {
+      "standard": [
+        "flying",
+        "water"
+      ],
+      "alternate": []
+    }
+  },
+  "toxel": {
+    "id": "#310",
+    "name": "Toxel",
+    "type": {
+      "standard": [
+        "electric",
+        "poison"
+      ],
+      "alternate": []
+    }
+  },
+  "toxtricity": {
+    "id": "#311",
+    "name": "Toxtricity",
+    "type": {
+      "standard": [
+        "electric",
+        "poison"
+      ],
+      "alternate": []
+    }
+  },
+  "silicobra": {
+    "id": "#312",
+    "name": "Silicobra",
+    "type": {
+      "standard": [
+        "ground"
+      ],
+      "alternate": []
+    }
+  },
+  "sandaconda": {
+    "id": "#313",
+    "name": "Sandaconda",
+    "type": {
+      "standard": [
+        "ground"
+      ],
+      "alternate": []
+    }
+  },
+  "hippopotas": {
+    "id": "#314",
+    "name": "Hippopotas",
+    "type": {
+      "standard": [
+        "ground"
+      ],
+      "alternate": []
+    }
+  },
+  "hippowdon": {
+    "id": "#315",
+    "name": "Hippowdon",
+    "type": {
+      "standard": [
+        "ground"
+      ],
+      "alternate": []
+    }
+  },
+  "durant": {
+    "id": "#316",
+    "name": "Durant",
+    "type": {
+      "standard": [
+        "bug",
+        "steel"
+      ],
+      "alternate": []
+    }
+  },
+  "heatmor": {
+    "id": "#317",
+    "name": "Heatmor",
+    "type": {
+      "standard": [
+        "fire"
+      ],
+      "alternate": []
+    }
+  },
+  "helioptile": {
+    "id": "#318",
+    "name": "Helioptile",
+    "type": {
+      "standard": [
+        "electric",
+        "normal"
+      ],
+      "alternate": []
+    }
+  },
+  "heliolisk": {
+    "id": "#319",
+    "name": "Heliolisk",
+    "type": {
+      "standard": [
+        "electric",
+        "normal"
+      ],
+      "alternate": []
+    }
+  },
+  "hawlucha": {
+    "id": "#320",
+    "name": "Hawlucha",
+    "type": {
+      "standard": [
+        "fighting",
+        "flying"
+      ],
+      "alternate": []
+    }
+  },
+  "trapinch": {
+    "id": "#321",
+    "name": "Trapinch",
+    "type": {
+      "standard": [
+        "ground"
+      ],
+      "alternate": []
+    }
+  },
+  "vibrava": {
+    "id": "#322",
+    "name": "Vibrava",
+    "type": {
+      "standard": [
+        "ground",
+        "dragon"
+      ],
+      "alternate": []
+    }
+  },
+  "flygon": {
+    "id": "#323",
+    "name": "Flygon",
+    "type": {
+      "standard": [
+        "ground",
+        "dragon"
+      ],
+      "alternate": []
+    }
+  },
+  "axew": {
+    "id": "#324",
+    "name": "Axew",
+    "type": {
+      "standard": [
+        "dragon"
+      ],
+      "alternate": []
+    }
+  },
+  "fraxure": {
+    "id": "#325",
+    "name": "Fraxure",
+    "type": {
+      "standard": [
+        "dragon"
+      ],
+      "alternate": []
+    }
+  },
+  "haxorus": {
+    "id": "#326",
+    "name": "Haxorus",
+    "type": {
+      "standard": [
+        "dragon"
+      ],
+      "alternate": []
+    }
+  },
+  "yamask": {
+    "id": "#327",
+    "name": "Yamask",
+    "type": {
+      "standard": [
+        "ghost"
+      ],
+      "alternate": [
+        {
+          "form": "galarian",
+          "type": [
+            "ground",
+            "ghost"
+          ]
+        }
+      ]
+    }
+  },
+  "runerigus": {
+    "id": "#328",
+    "name": "Runerigus",
+    "type": {
+      "standard": [
+        "ground",
+        "ghost"
+      ],
+      "alternate": []
+    }
+  },
+  "cofagrigus": {
+    "id": "#329",
+    "name": "Cofagrigus",
+    "type": {
+      "standard": [
+        "ghost"
+      ],
+      "alternate": []
+    }
+  },
+  "honedge": {
+    "id": "#330",
+    "name": "Honedge",
+    "type": {
+      "standard": [
+        "steel",
+        "ghost"
+      ],
+      "alternate": []
+    }
+  },
+  "doublade": {
+    "id": "#331",
+    "name": "Doublade",
+    "type": {
+      "standard": [
+        "steel",
+        "ghost"
+      ],
+      "alternate": []
+    }
+  },
+  "aegislash": {
+    "id": "#332",
+    "name": "Aegislash",
+    "type": {
+      "standard": [
+        "steel",
+        "ghost"
+      ],
+      "alternate": []
+    }
+  },
+  "ponyta": {
+    "id": "#333",
+    "name": "Ponyta",
+    "type": {
+      "standard": [
+        "fire"
+      ],
+      "alternate": [
+        {
+          "form": "galarian",
+          "type": [
+            "psychic"
+          ]
+        }
+      ]
+    }
+  },
+  "rapidash": {
+    "id": "#334",
+    "name": "Rapidash",
+    "type": {
+      "standard": [
+        "fire"
+      ],
+      "alternate": [
+        {
+          "form": "galarian",
+          "type": [
+            "psychic",
+            "fairy"
+          ]
+        }
+      ]
+    }
+  },
+  "sinistea": {
+    "id": "#335",
+    "name": "Sinistea",
+    "type": {
+      "standard": [
+        "ghost"
+      ],
+      "alternate": []
+    }
+  },
+  "polteageist": {
+    "id": "#336",
+    "name": "Polteageist",
+    "type": {
+      "standard": [
+        "ghost"
+      ],
+      "alternate": []
+    }
+  },
+  "indeedee": {
+    "id": "#337",
+    "name": "Indeedee",
+    "type": {
+      "standard": [
+        "psychic",
+        "normal"
+      ],
+      "alternate": []
+    }
+  },
+  "phantump": {
+    "id": "#338",
+    "name": "Phantump",
+    "type": {
+      "standard": [
+        "ghost",
+        "grass"
+      ],
+      "alternate": []
+    }
+  },
+  "trevenant": {
+    "id": "#339",
+    "name": "Trevenant",
+    "type": {
+      "standard": [
+        "ghost",
+        "grass"
+      ],
+      "alternate": []
+    }
+  },
+  "morelull": {
+    "id": "#340",
+    "name": "Morelull",
+    "type": {
+      "standard": [
+        "grass",
+        "fairy"
+      ],
+      "alternate": []
+    }
+  },
+  "shiinotic": {
+    "id": "#341",
+    "name": "Shiinotic",
+    "type": {
+      "standard": [
+        "grass",
+        "fairy"
+      ],
+      "alternate": []
+    }
+  },
+  "oranguru": {
+    "id": "#342",
+    "name": "Oranguru",
+    "type": {
+      "standard": [
+        "normal",
+        "psychic"
+      ],
+      "alternate": []
+    }
+  },
+  "passimian": {
+    "id": "#343",
+    "name": "Passimian",
+    "type": {
+      "standard": [
+        "fighting"
+      ],
+      "alternate": []
+    }
+  },
+  "morpeko": {
+    "id": "#344",
+    "name": "Morpeko",
+    "type": {
+      "standard": [
+        "electric",
+        "dark"
+      ],
+      "alternate": []
+    }
+  },
+  "falinks": {
+    "id": "#345",
+    "name": "Falinks",
+    "type": {
+      "standard": [
+        "fighting"
+      ],
+      "alternate": []
+    }
+  },
+  "drampa": {
+    "id": "#346",
+    "name": "Drampa",
+    "type": {
+      "standard": [
+        "normal",
+        "dragon"
+      ],
+      "alternate": []
+    }
+  },
+  "turtonator": {
+    "id": "#347",
+    "name": "Turtonator",
+    "type": {
+      "standard": [
+        "fire",
+        "dragon"
+      ],
+      "alternate": []
+    }
+  },
+  "togedemaru": {
+    "id": "#348",
+    "name": "Togedemaru",
+    "type": {
+      "standard": [
+        "electric",
+        "steel"
+      ],
+      "alternate": []
+    }
+  },
+  "snom": {
+    "id": "#349",
+    "name": "Snom",
+    "type": {
+      "standard": [
+        "ice",
+        "bug"
+      ],
+      "alternate": []
+    }
+  },
+  "frosmoth": {
+    "id": "#350",
+    "name": "Frosmoth",
+    "type": {
+      "standard": [
+        "ice",
+        "bug"
+      ],
+      "alternate": []
+    }
+  },
+  "clobbopus": {
+    "id": "#351",
+    "name": "Clobbopus",
+    "type": {
+      "standard": [
+        "fighting"
+      ],
+      "alternate": []
+    }
+  },
+  "grapploct": {
+    "id": "#352",
+    "name": "Grapploct",
+    "type": {
+      "standard": [
+        "fighting"
+      ],
+      "alternate": []
+    }
+  },
+  "pincurchin": {
+    "id": "#353",
+    "name": "Pincurchin",
+    "type": {
+      "standard": [
+        "electric"
+      ],
+      "alternate": []
+    }
+  },
+  "mantyke": {
+    "id": "#354",
+    "name": "Mantyke",
+    "type": {
+      "standard": [
+        "water",
+        "flying"
+      ],
+      "alternate": []
+    }
+  },
+  "mantine": {
+    "id": "#355",
+    "name": "Mantine",
+    "type": {
+      "standard": [
+        "water",
+        "flying"
+      ],
+      "alternate": []
+    }
+  },
+  "wailmer": {
+    "id": "#356",
+    "name": "Wailmer",
+    "type": {
+      "standard": [
+        "water"
+      ],
+      "alternate": []
+    }
+  },
+  "wailord": {
+    "id": "#357",
+    "name": "Wailord",
+    "type": {
+      "standard": [
+        "water"
+      ],
+      "alternate": []
+    }
+  },
+  "bergmite": {
+    "id": "#358",
+    "name": "Bergmite",
+    "type": {
+      "standard": [
+        "ice"
+      ],
+      "alternate": []
+    }
+  },
+  "avalugg": {
+    "id": "#359",
+    "name": "Avalugg",
+    "type": {
+      "standard": [
+        "ice"
+      ],
+      "alternate": []
+    }
+  },
+  "dhelmise": {
+    "id": "#360",
+    "name": "Dhelmise",
+    "type": {
+      "standard": [
+        "ghost",
+        "grass"
+      ],
+      "alternate": []
+    }
+  },
+  "lapras": {
+    "id": "#361",
+    "name": "Lapras",
+    "type": {
+      "standard": [
+        "water",
+        "ice"
+      ],
+      "alternate": []
+    }
+  },
+  "lunatone": {
+    "id": "#362",
+    "name": "Lunatone",
+    "type": {
+      "standard": [
+        "rock",
+        "psychic"
+      ],
+      "alternate": []
+    }
+  },
+  "solrock": {
+    "id": "#363",
+    "name": "Solrock",
+    "type": {
+      "standard": [
+        "rock",
+        "psychic"
+      ],
+      "alternate": []
+    }
+  },
+  "mime jr.": {
+    "id": "#364",
+    "name": "Mime Jr.",
+    "type": {
+      "standard": [
+        "psychic",
+        "fairy"
+      ],
+      "alternate": []
+    }
+  },
+  "mr. mime": {
+    "id": "#365",
+    "name": "Mr. Mime",
+    "type": {
+      "standard": [
+        "psychic",
+        "fairy"
+      ],
+      "alternate": [
+        {
+          "form": "galarian",
+          "type": [
+            "ice",
+            "psychic"
+          ]
+        }
+      ]
+    }
+  },
+  "mr. rime": {
+    "id": "#366",
+    "name": "Mr. Rime",
+    "type": {
+      "standard": [
+        "ice",
+        "psychic"
+      ],
+      "alternate": []
+    }
+  },
+  "darumaka": {
+    "id": "#367",
+    "name": "Darumaka",
+    "type": {
+      "standard": [
+        "fire"
+      ],
+      "alternate": [
+        {
+          "form": "galarian",
+          "type": [
+            "ice"
+          ]
+        }
+      ]
+    }
+  },
+  "darmanitan": {
+    "id": "#368",
+    "name": "Darmanitan",
+    "type": {
+      "standard": [
+        "fire"
+      ],
+      "alternate": [
+        {
+          "form": "zen mode",
+          "type": [
+            "fire",
+            "psychic"
+          ]
+        },
+        {
+          "form": "galarian",
+          "type": [
+            "ice"
+          ]
+        },
+        {
+          "form": "galarian zen mode",
+          "type": [
+            "ice",
+            "fire"
+          ]
+        }
+      ]
+    }
+  },
+  "stonjourner": {
+    "id": "#369",
+    "name": "Stonjourner",
+    "type": {
+      "standard": [
+        "rock"
+      ],
+      "alternate": []
+    }
+  },
+  "eiscue": {
+    "id": "#370",
+    "name": "Eiscue",
+    "type": {
+      "standard": [
+        "ice"
+      ],
+      "alternate": []
+    }
+  },
+  "duraludon": {
+    "id": "#371",
+    "name": "Duraludon",
+    "type": {
+      "standard": [
+        "steel",
+        "dragon"
+      ],
+      "alternate": []
+    }
+  },
+  "rotom": {
+    "id": "#372",
+    "name": "Rotom",
+    "type": {
+      "standard": [
+        "electric",
+        "ghost"
+      ],
+      "alternate": [
+        {
+          "form": "frost rotom",
+          "type": [
+            "electric",
+            "ice"
+          ]
+        },
+        {
+          "form": "heat rotom",
+          "type": [
+            "electric",
+            "fire"
+          ]
+        },
+        {
+          "form": "mow rotom",
+          "type": [
+            "electric",
+            "grass"
+          ]
+        },
+        {
+          "form": "fan rotom",
+          "type": [
+            "electric",
+            "flying"
+          ]
+        },
+        {
+          "form": "wash rotom",
+          "type": [
+            "electric",
+            "water"
+          ]
+        }
+      ]
+    }
+  },
+  "ditto": {
+    "id": "#373",
+    "name": "Ditto",
+    "type": {
+      "standard": [
+        "normal"
+      ],
+      "alternate": []
+    }
+  },
+  "dracozolt": {
+    "id": "#374",
+    "name": "Dracozolt",
+    "type": {
+      "standard": [
+        "electric",
+        "dragon"
+      ],
+      "alternate": []
+    }
+  },
+  "arctozolt": {
+    "id": "#375",
+    "name": "Arctozolt",
+    "type": {
+      "standard": [
+        "electric",
+        "ice"
+      ],
+      "alternate": []
+    }
+  },
+  "dracovish": {
+    "id": "#376",
+    "name": "Dracovish",
+    "type": {
+      "standard": [
+        "water",
+        "dragon"
+      ],
+      "alternate": []
+    }
+  },
+  "arctovish": {
+    "id": "#377",
+    "name": "Arctovish",
+    "type": {
+      "standard": [
+        "water",
+        "ice"
+      ],
+      "alternate": []
+    }
+  },
+  "charmander": {
+    "id": "#378",
+    "name": "Charmander",
+    "type": {
+      "standard": [
+        "fire"
+      ],
+      "alternate": []
+    }
+  },
+  "charmeleon": {
+    "id": "#379",
+    "name": "Charmeleon",
+    "type": {
+      "standard": [
+        "fire"
+      ],
+      "alternate": []
+    }
+  },
+  "charizard": {
+    "id": "#380",
+    "name": "Charizard",
+    "type": {
+      "standard": [
+        "fire",
+        "flying"
+      ],
+      "alternate": []
+    }
+  },
+  "type: null": {
+    "id": "#381",
+    "name": "Type: Null",
+    "type": {
+      "standard": [
+        "normal"
+      ],
+      "alternate": []
+    }
+  },
+  "silvally": {
+    "id": "#382",
+    "name": "Silvally",
+    "type": {
+      "standard": [
+        "normal"
+      ],
+      "alternate": []
+    }
+  },
+  "larvitar": {
+    "id": "#383",
+    "name": "Larvitar",
+    "type": {
+      "standard": [
+        "rock",
+        "ground"
+      ],
+      "alternate": []
+    }
+  },
+  "pupitar": {
+    "id": "#384",
+    "name": "Pupitar",
+    "type": {
+      "standard": [
+        "rock",
+        "ground"
+      ],
+      "alternate": []
+    }
+  },
+  "tyranitar": {
+    "id": "#385",
+    "name": "Tyranitar",
+    "type": {
+      "standard": [
+        "rock",
+        "dark"
+      ],
+      "alternate": []
+    }
+  },
+  "deino": {
+    "id": "#386",
+    "name": "Deino",
+    "type": {
+      "standard": [
+        "dark",
+        "dragon"
+      ],
+      "alternate": []
+    }
+  },
+  "zweilous": {
+    "id": "#387",
+    "name": "Zweilous",
+    "type": {
+      "standard": [
+        "dark",
+        "dragon"
+      ],
+      "alternate": []
+    }
+  },
+  "hydreigon": {
+    "id": "#388",
+    "name": "Hydreigon",
+    "type": {
+      "standard": [
+        "dark",
+        "dragon"
+      ],
+      "alternate": []
+    }
+  },
+  "goomy": {
+    "id": "#389",
+    "name": "Goomy",
+    "type": {
+      "standard": [
+        "dragon"
+      ],
+      "alternate": []
+    }
+  },
+  "sliggoo": {
+    "id": "#390",
+    "name": "Sliggoo",
+    "type": {
+      "standard": [
+        "dragon"
+      ],
+      "alternate": []
+    }
+  },
+  "goodra": {
+    "id": "#391",
+    "name": "Goodra",
+    "type": {
+      "standard": [
+        "dragon"
+      ],
+      "alternate": []
+    }
+  },
+  "jangmo-o": {
+    "id": "#392",
+    "name": "Jangmo-o",
+    "type": {
+      "standard": [
+        "dragon"
+      ],
+      "alternate": []
+    }
+  },
+  "hakamo-o": {
+    "id": "#393",
+    "name": "Hakamo-o",
+    "type": {
+      "standard": [
+        "dragon",
+        "fighting"
+      ],
+      "alternate": []
+    }
+  },
+  "kommo-o": {
+    "id": "#394",
+    "name": "Kommo-o",
+    "type": {
+      "standard": [
+        "dragon",
+        "fighting"
+      ],
+      "alternate": []
+    }
+  },
+  "dreepy": {
+    "id": "#395",
+    "name": "Dreepy",
+    "type": {
+      "standard": [
+        "dragon",
+        "ghost"
+      ],
+      "alternate": []
+    }
+  },
+  "drakloak": {
+    "id": "#396",
+    "name": "Drakloak",
+    "type": {
+      "standard": [
+        "dragon",
+        "ghost"
+      ],
+      "alternate": []
+    }
+  },
+  "dragapult": {
+    "id": "#397",
+    "name": "Dragapult",
+    "type": {
+      "standard": [
+        "dragon",
+        "ghost"
+      ],
+      "alternate": []
+    }
+  },
+  "zacian": {
+    "id": "#398",
+    "name": "Zacian",
+    "type": {
+      "standard": [
+        "fairy"
+      ],
+      "alternate": [
+        {
+          "form": "crowned sword",
+          "type": [
+            "fairy",
+            "steel"
+          ]
+        }
+      ]
+    }
+  },
+  "zamazenta": {
+    "id": "#399",
+    "name": "Zamazenta",
+    "type": {
+      "standard": [
+        "fighting"
+      ],
+      "alternate": [
+        {
+          "form": "crowned sword",
+          "type": [
+            "fighting",
+            "steel"
+          ]
+        }
+      ]
+    }
+  },
+  "eternatus": {
+    "id": "#400",
+    "name": "Eternatus",
+    "type": {
+      "standard": [
+        "poison",
+        "dragon"
+      ],
+      "alternate": []
+    }
+  }
+}

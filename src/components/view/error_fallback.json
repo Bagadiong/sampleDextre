@@ -1,0 +1,9 @@
+{
+  "accepTypes" : ["any"],
+  "content" : ["ERR-01"],
+  "optionType" : "text",
+  "options" : [],
+  "retries" : null
+}
+
+
